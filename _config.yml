@@ -1,8 +1,7 @@
 name: GINGERBYDESIGN
 favicon: null
-layout_spectrum: 0.09058
-typography_spectrum: 1
-title: GINGER by DESIGN
+layout_spectrum: 0.2808858354110271
+typography_spectrum: 0.7596779083833098
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#2c2c2e'
-    - '#d43638'
-    - '#d3aa52'
-    - '#d46b4b'
-    - '#5c6d86'
-  brandStrength: 0.1875
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6026340187527239
   lightness: 0.08104228787124157
   saturation: 0.0015152054838836193
-  rhythmicContrast: 0
+  rhythmicContrast: 0.6261678144801408
 purpose: []
