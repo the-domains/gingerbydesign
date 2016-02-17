@@ -1,6 +1,6 @@
 name: GINGERBYDESIGN
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.09058
 typography_spectrum: 1
 title: GINGER by DESIGN
 cta:
@@ -22,7 +22,7 @@ color:
     - '#d3aa52'
     - '#d46b4b'
     - '#5c6d86'
-  brandStrength: 0.6026340187527239
+  brandStrength: 0.5
   lightness: 0.08104228787124157
   saturation: 0.0015152054838836193
   rhythmicContrast: 0.6261678144801408
