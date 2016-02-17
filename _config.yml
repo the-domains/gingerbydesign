@@ -1,0 +1,28 @@
+name: GINGERBYDESIGN
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#2c2c2e'
+    - '#d43638'
+    - '#d3aa52'
+    - '#d46b4b'
+    - '#5c6d86'
+  brandStrength: 0.6026340187527239
+  lightness: 0.08104228787124157
+  saturation: 0.0015152054838836193
+  rhythmicContrast: 0.6261678144801408
+purpose: []
